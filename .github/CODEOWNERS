@@ -1,0 +1,5 @@
+# Assign homepage to @teacherA
+/index.html @teacherA
+
+# Assign entire website folder to @teacherTeam
+/website/ @teacherTeam
