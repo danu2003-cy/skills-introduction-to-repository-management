@@ -12,5 +12,11 @@ Remember, it's self-paced so feel fee to take a break! ☕️
 
 ---
 
+## Contributing Guidelines
+- Always create a branch for your feature
+- Make sure tests pass before creating a PR
+- Request a review when ready
+
+
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
